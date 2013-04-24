@@ -13,7 +13,12 @@
         "url": "https://github.com/pavelpower/gradient"
     },
     "dependencies": {},
-    "devDependencies": {},
+    "devDependencies": {
+        "jossy": "*",
+        "mocha": "*",
+        "chai": "*",
+        "borschik": "*"
+    },
     "optionalDependencies": {},
     "engines": {
         "node": "*"
